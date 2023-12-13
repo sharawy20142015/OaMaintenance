@@ -1,7 +1,7 @@
 pandas
-streamlit
-plotly
-datetime
+streamlit==0.90.0
+plotly==5.0.0
+python-dateutil
 base64
 oauth2client
 io
