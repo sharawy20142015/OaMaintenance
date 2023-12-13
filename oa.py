@@ -2,7 +2,6 @@ import sqlite3
 import datetime
 import streamlit as st
 import pandas as pd
-import base64
 import gspread
 import numpy as np
 from io import StringIO
