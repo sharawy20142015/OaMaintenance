@@ -5,5 +5,5 @@ python-dateutil
 base64
 oauth2client
 io
-gspread
+gspread==4.0.1
 numpy
