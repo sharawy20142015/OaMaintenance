@@ -1,9 +1,4 @@
-pandas
-streamlit==0.90.0
-plotly==5.0.0
-python-dateutil
-base64
-oauth2client
-io
 gspread==4.0.1
-numpy
+pandas==1.3.3
+numpy==1.21.2
+streamlit==0.90.0
